@@ -1,8 +1,29 @@
-# React + Vite
+# Nike Website Landing Page
+This project is a responsive Nike website landing page built using ReactJS and Tailwind CSS. The page is designed to be fully responsive on all devices, providing a seamless user experience across desktops, tablets, and mobile phones.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Features
+- Fully responsive design
+- Modern and clean UI/UX
+- Tailwind CSS for rapid styling
+- ReactJS for dynamic and interactive components
 
-Currently, two official plugins are available:
+## Technologies Used
+- ReactJS - A JavaScript library for building user interfaces
+- Tailwind CSS - A utility-first CSS framework for rapid UI development
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+To run this project locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://saladilakshman/your-username/nike2.0.git 
+  2. Navigate to Project Directory:
+
+     ```bash
+     cd react-tailwind
+  3. Install dependencies:
+
+     ```bash
+     npm install
+     
